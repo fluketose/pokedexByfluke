@@ -1,0 +1,8 @@
+export const DATA_LIST = 'DATA_LIST'
+export const DATA_ADD = 'DATA_ADD'
+export const ADD = 'ADD'
+export const REMOVE = 'REMOVE'
+export const OPEN = 'OPEN'
+export const CLOSE = 'CLOSE'
+export const SEARCH_NAME = 'SEARCH_NAME'
+export const SEARCH_TYPE = 'SEARCH_TYPE'
